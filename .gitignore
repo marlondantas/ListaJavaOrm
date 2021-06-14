@@ -1,0 +1,6 @@
+*.class
+/log
+config.properties
+/.vscode
+persistence.xml
+ListaJavaORM.sql
